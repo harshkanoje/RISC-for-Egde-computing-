@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra CMakeFiles/riscv_emulator.dir/main.c.o CMakeFiles/riscv_emulator.dir/src/cpu.c.o CMakeFiles/riscv_emulator.dir/src/bus.c.o CMakeFiles/riscv_emulator.dir/src/dram.c.o -o riscv_emulator 

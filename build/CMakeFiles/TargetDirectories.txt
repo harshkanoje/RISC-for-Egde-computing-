@@ -1,0 +1,3 @@
+/home/harsh/RISC-V-Emu-Code-/build/CMakeFiles/riscv_emulator.dir
+/home/harsh/RISC-V-Emu-Code-/build/CMakeFiles/edit_cache.dir
+/home/harsh/RISC-V-Emu-Code-/build/CMakeFiles/rebuild_cache.dir
